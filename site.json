@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "파워체크",
+  "brand": "POWERCHECK",
+  "mark": "PO",
+  "worker": "powercheck",
+  "url": "https://powercheck.webnote-lab.workers.dev",
+  "description": "파워체크의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "파워체크, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "파워체크의 정보와 실용 가이드를 정리합니다.",
+      "name": "파워체크",
+      "slug": "powercheck"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/powercheck/issues"
+}
